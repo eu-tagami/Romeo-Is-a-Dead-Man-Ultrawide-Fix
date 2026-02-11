@@ -25,6 +25,8 @@ Crime Boss: Rockay City
 - Unofficial community fix
 - May cause issues in cutscenes
 - Tested on 21:9 resolutions
+- The fix is not fully complete.
+- Some HUD/UI elements may appear misaligned or stretched in ultrawide resolutions.
 
 ## License
 MIT License  
